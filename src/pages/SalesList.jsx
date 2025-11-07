@@ -22,6 +22,7 @@ function SalesList() {
         fetchSales();
     }, []);
 
+    //
     return (
         <Container className="p-3">
             <h2 className="mb-4">Compras Registradas</h2>
